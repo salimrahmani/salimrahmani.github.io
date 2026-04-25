@@ -1,0 +1,7 @@
+baseURL: https://salimrahmani.github.io/
+languageCode: en-us
+title: Salim Rahmani
+
+module:
+  imports:
+    - path: github.com/gurusabarish/hugo-profile
